@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0a532bb0.css","mappings":"AAAA,EACI,QAAS,CACT,SACF,CACA,KAEE,qBAAuB,CADvB,UAAY,CAEZ,qDACF","sources":["index.css"],"sourcesContent":["*{\n    margin: 0;\n    padding: 0;\n  }\n  body{\n    color: black;\n    background-color: white;\n    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n  }\n"],"names":[],"sourceRoot":""}
